@@ -1,4 +1,4 @@
-# 🤖 MSDS 422 — Practical Machine Learning
+# 🤖 MSDS 422: Practical Machine Learning
 
 Welcome to **Practical Machine Learning**, a hands-on course focused on developing and applying machine learning models to solve real business problems. Throughout this course, I explored a wide range of statistical and machine learning methodologies while learning to implement modern data science workflows with open-source tools.
 
