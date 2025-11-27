@@ -18,7 +18,6 @@ This course introduces the core concepts and practices of machine learning with 
 * Deep learning architectures:
     * Fully connected neural networks
     * Convolutional neural networks (CNNs)
-    * Recurrent neural networks (RNNs)
 
 ---
 
