@@ -46,6 +46,12 @@ I used industry-standard, open-source tools such as:
 
 ---
 
+## Data
+
+The data used in each of the assignments was the Home Equity dataset that is used for credit risk analysis and loan default prediction. It contains information on 5,960 home equity loan applications, and its primary purpose is to predict whether an applicant will default on their loan. The dataset has 13 variables, with `BAD` as the target variable for predicting loan default and an amount variable to determine how much was lost. Additionally, there is a data dictionary that describes the variable types for each varaible and a short description on the values of each variable.
+
+---
+
 ## Coursework
 
 Each learning objective will be in its own folder with a more detailed `README.md` file that full describes the learning objectives, tools used, and data neccessary for each assignment.
