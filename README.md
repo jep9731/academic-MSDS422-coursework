@@ -16,7 +16,7 @@ This course introduces the core concepts and practices of machine learning with 
 * Tree-based ensemble models (Random Forest, Gradient Boosting)
 * Unsupervised learning and clustering techniques
 * Deep learning architectures:
-    * Fully connected neural networks
+    * Neural networks
     * Convolutional neural networks (CNNs)
 
 ---
