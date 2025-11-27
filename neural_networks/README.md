@@ -32,7 +32,7 @@ This section introduced neural network architecture and training for predictive 
 
 ## Run
 
-Each topic (i.e., neural networks, CNNs) will have their own folder with the associated Python file or Jupyter notebook file that will pull the data directly from the Tensorflow package or have a separate folder with the necessary images for the CNN.
+Each topic (i.e., neural networks, CNNs) will have their own folder with the associated Python file along with the data necessary to run the file, or a Jupyter notebook file that will pull the data directly from the Tensorflow package or have a separate folder with the necessary images for the CNN.
 
 ---
 
