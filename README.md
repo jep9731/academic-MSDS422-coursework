@@ -41,7 +41,7 @@ I used industry-standard, open-source tools such as:
 
 * Python for modeling and analysis
 * Jupyter Notebook for reproducible ML workflows
-* scikit-learn, TensorFlow, Keras, PyTorch
+* scikit-learn, TensorFlow, Keras
 * Pandas, NumPy, Matplotlib, Seaborn for data exploration
 
 ---
